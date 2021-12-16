@@ -1,4 +1,5 @@
-# Software Development Lifecycle### How do I interpret user needs and implement them into a program?
+# Software Development Lifecycle
+### How do I interpret user needs and implement them into a program?
 I interpret user needs when listening to our clients needs where I'll rule out any unnecessary features from the backlog and help the implementation of the sprint plans to go smooth.
 
 ### How does creating “user stories” help with this?
